@@ -2,7 +2,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-![yzxs](https://github.com/xuesong/123/blob/master/image/yzxs.png)  
+![yzxs](https://github.com/xuesong/wiki/blob/master/image/yzxs.png)  
 
 ##
 [书单推荐](https://github.com/xuesong/wiki/blob/master/book/done/readme.md)
