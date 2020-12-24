@@ -1,8 +1,4 @@
-:santa: :santa: :santa:
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-![yzxs](https://github.com/xuesong/wiki/blob/master/image/yzxs.png)  
+![yzxs](https://github.com/xuesong/wiki/blob/master/image/yzxs.png?raw=ture)  
 
 
 # TODO
