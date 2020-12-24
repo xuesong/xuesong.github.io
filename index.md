@@ -2,10 +2,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-![YZXS](https://github.com/xuesong/wiki/tree/master/image/yzxs.png)
-You can use the [editor on GitHub](https://github.com/xuesong/xuesong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://github.com/xuesong/123/blob/master/image/yzxs.png)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[书单推荐](https://github.com/xuesong/wiki/blob/master/book/done/readme.md)
 
 
 
